@@ -126,7 +126,7 @@
         <mxCell id="xLZpfZb-gDiBcUFZ-MSa-34" value="yes" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-353" y="856" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xLZpfZb-gDiBcUFZ-MSa-35" value="API Trader Panel" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+        <mxCell id="xLZpfZb-gDiBcUFZ-MSa-35" value="API Agent Panel" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="755" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xLZpfZb-gDiBcUFZ-MSa-36" value="no" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
