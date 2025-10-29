@@ -205,7 +205,7 @@
         <mxCell id="QgIzURbftXg1jI1sDr3Z-6" value="Data Field Entry Dealing" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="346.5" y="776" width="200" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="QgIzURbftXg1jI1sDr3Z-7" value="Time&lt;br/&gt;&lt;br&gt;Ccy Pair&lt;br/&gt;&lt;br&gt;Status 8/5 (Buy/Sell)&lt;br/&gt;&lt;br&gt;Type (TT/BN)&lt;br/&gt;&lt;br&gt;Instrument (TOD/FWD)&lt;br/&gt;&lt;br&gt;Base Amount (Ccy Origin)&lt;br/&gt;&lt;br&gt;Counter Amount (Ccy Destination)&lt;br/&gt;&lt;br&gt;I/O Treasury (Rate)&lt;br/&gt;&lt;br&gt;Value Date&lt;br/&gt;&lt;br&gt;Branch Code&lt;br/&gt;&lt;br&gt;Customer Name&lt;br/&gt;&lt;br&gt;Agent (ID Dealer)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="QgIzURbftXg1jI1sDr3Z-6">
+        <mxCell id="QgIzURbftXg1jI1sDr3Z-7" value="Time&lt;br&gt;Ccy Pair&lt;br&gt;Status 8/5 (Buy/Sell)&lt;br&gt;Type (TT/BN)&lt;br&gt;Instrument (TOD/FWD)&lt;br&gt;Base Amount (Ccy Origin)&lt;br&gt;Counter Amount (Ccy Destination)&lt;br&gt;I/O Treasury (Rate)&lt;br&gt;Value Date&lt;br&gt;Branch Code&lt;br&gt;Customer Name&lt;br&gt;Agent (ID Dealer)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="QgIzURbftXg1jI1sDr3Z-6">
           <mxGeometry y="25" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="QgIzURbftXg1jI1sDr3Z-9" value="Journal Replenish" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
